@@ -28,7 +28,7 @@ Net(
 - **SGD Optimizer**: Learning rate = 0.01
 - **Adam Optimizer**: Learning rate = 0.001
 - **Dropout Rate**: 0.25
-- **Batch Size**: Standard CIFAR-10 (32)
+- **Batch Size**: 20
 
 ## Training Results
 ![Accuracy](main.jpeg)
