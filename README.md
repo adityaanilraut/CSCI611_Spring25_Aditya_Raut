@@ -31,7 +31,7 @@ Net(
 - **Batch Size**: Standard CIFAR-10 (32)
 
 ## Training Results
-![Accuracy](main.jpg)
+![Accuracy](main.jpeg)
 ### Overall Performance
 - **Final Test Accuracy**: 75%
 - **Final model size**: 4.5 MB
@@ -41,7 +41,7 @@ Net(
 ### Optimizer Comparison
 
 #### Adam vs SGD Performance
-![Accuracy](sgdvsadam.jpg)
+![Accuracy](sgdvsadam.jpeg)
 - **Initial Accuracy**
   - Adam: ~62%
   - SGD: ~38%
@@ -61,7 +61,7 @@ Net(
 - **Convergence**: Stable decrease across all metrics
 
 ### Category-wise Performance
-![Accuracy](categories.jpg)
+![Accuracy](categories.jpeg)
 #### High Performance (>75%)
 - Automobiles (~85%)
 - Ships (~80%)
