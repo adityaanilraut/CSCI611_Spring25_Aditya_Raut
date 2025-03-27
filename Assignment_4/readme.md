@@ -4,6 +4,8 @@
 
 This project implements neural style transfer using a pre-trained VGG19 convolutional neural network, based on the seminal paper by Gatys et al. The goal is to create a new image that combines the content of one image with the artistic style of another.
 
+![Animated GIF](output.gif)
+![Animated GIF](output2.gif)
 ## Implementation Details
 
 ### Key Components
